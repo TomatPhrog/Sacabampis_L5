@@ -7,9 +7,9 @@
         padding: 2em 14rem;
     }
 }
-@media screen and (max-height: 883px){
+@media screen and (max-height: 896px){
     .background-gradient{
-        height: 72vh;
+        height: 67vh;
     }
 }
 
@@ -20,5 +20,14 @@
     }
     footer{
         padding: 2em 6rem;
+    }
+    h1{
+        font-size: 3em;
+    }
+    .subtitle{
+        font-size: 1em;
+    }
+    h2{
+        font-size: 1.5em;
     }
 }
