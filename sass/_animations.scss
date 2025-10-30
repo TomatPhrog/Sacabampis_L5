@@ -1,0 +1,6 @@
+.rotate{
+    animation: spin 2.5s linear infinite;
+}
+@keyframes spin{
+     to {transform:rotateZ(360deg);}
+}

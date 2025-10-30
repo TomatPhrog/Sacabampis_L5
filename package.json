@@ -1,0 +1,16 @@
+{
+  "name": "l5_sass",
+  "version": "1.0.0",
+  "description": "Fish for L5",
+  "license": "ISC",
+  "author": "Fiona House",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-sass": "^2.0.0"
+  }
+}

@@ -1,0 +1,25 @@
+body{
+    font-family: "Nunito", sans-serif;
+}
+h1{
+    font-size: 4em;
+    margin: 0%;
+    color: var(--main-blue);
+}
+h2{
+    font-size: 2em;
+    margin: 0%;
+    color: var(--para-blue);
+}
+.subtitle{
+    font-size: 1.4em;
+    margin-top: 0%;
+    margin-bottom: 2em;
+}
+.headText{
+    color: var(--main-blue);
+    margin: 0%;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+}
